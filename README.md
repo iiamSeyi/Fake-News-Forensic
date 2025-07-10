@@ -80,7 +80,7 @@ print(explanation)
 ## Author
 
 Built by [Oluwaseyi Salisu](https://oluwaseyisalisu.com)  
-GitHub: [ayomide1234](https://github.com/iiamSeyi)  
+GitHub: [iiamSeyi](https://github.com/iiamSeyi)  
 LinkedIn: [oluwaseyi-salisu](https://www.linkedin.com/in/oluwaseyi-salisu/)
 
 ## License
