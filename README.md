@@ -86,9 +86,9 @@ LinkedIn: [oluwaseyi-salisu](https://www.linkedin.com/in/oluwaseyi-salisu/)
 ## License
 
 This project is open-source under the MIT License. Feel free to fork, adapt, and expand!
-```
 
----
+
+
 
 
 
